@@ -12,6 +12,6 @@ Basic syntax and concepts of typescript as reference
   ```
   
 - Compile with "on the fly mode":
-  ```
-  tsc nameFile.ts -w
-  ```
+ ```
+ tsc nameFile.ts -w
+ ```
